@@ -1,6 +1,6 @@
 # ADM-HW1
 
-#Script description
+##Script description
 1. script_ex1.py
 It contains all the exercises relating to Problem 1:
 
