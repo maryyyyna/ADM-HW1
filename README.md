@@ -21,11 +21,11 @@ It contains all the exercises relating to Problem 1:
 2. script_ex2.py
 It contains all the exercises relating to Problem 2:
 
-* https://www.hackerrank.com/challenges/birthday-cake-candles
-* https://www.hackerrank.com/challenges/kangaroo
-* https://www.hackerrank.com/challenges/strange-advertising
-* https://www.hackerrank.com/challenges/recursive-digit-sum
-*  https://www.hackerrank.com/challenges/insertionsort1
-*   https://www.hackerrank.com/challenges/insertionsort2
+* Birthday-cake-candles
+* Kangaroo
+* Strange-advertising
+* Recursive-digit-sum
+* Insertionsort1
+* Insertionsort2
 
 3.
