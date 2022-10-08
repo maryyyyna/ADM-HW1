@@ -3,7 +3,7 @@
 ## Script description
 ### 1. `script_ex1.py`
 
-#### It contains all the exercises relating to Problem 1:
+#### It contains the scripts of the exercises relating to Problem 1:
 
 * Introduction (all – total: 7 - max points: 75)
 * Data types (all – total: 6 - max points: 60)
@@ -21,7 +21,7 @@
 
 ### 2. `script_ex2.py`
 
-#### It contains all the exercises relating to Problem 2:
+#### It contains the scripts of the exercises relating to Problem 2:
 
 * Birthday-cake-candles
 * Kangaroo
@@ -32,5 +32,5 @@
 
 ### 3. `submissions.pdf`
 
-#### It contains all my submissions in [HackerRank](https://www.hackerrank.com/dashboard).
+#### I produce a PDF printout of all my submissions in the website [HackerRank](https://www.hackerrank.com/dashboard).
 
