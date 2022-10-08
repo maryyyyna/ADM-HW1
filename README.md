@@ -1,6 +1,6 @@
 # ADM-HW1
 
-## Script description
+## File description
 ### 1. `script_ex1.py`
 
 #### It contains the scripts of the exercises relating to Problem 1:
