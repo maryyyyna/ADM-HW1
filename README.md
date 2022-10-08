@@ -1,7 +1,11 @@
 # ADM-HW1
 
 ## File description
-### 1. `script_ex1.py`
+### 3. `submissions.pdf`
+
+#### I produce a PDF printout of all my submissions in the website [HackerRank](https://www.hackerrank.com/dashboard).
+
+### 2. `script_ex1.py`
 
 #### It contains the scripts of the exercises relating to Problem 1:
 
@@ -19,7 +23,7 @@
 * Closures and Decorations (all – total: 2 - max points: 60)
 * Numpy (all – total: 15 - max points: 300)
 
-### 2. `script_ex2.py`
+### 3. `script_ex2.py`
 
 #### It contains the scripts of the exercises relating to Problem 2:
 
@@ -30,7 +34,4 @@
 * Insertionsort1
 * Insertionsort2
 
-### 3. `submissions.pdf`
-
-#### I produce a PDF printout of all my submissions in the website [HackerRank](https://www.hackerrank.com/dashboard).
 
