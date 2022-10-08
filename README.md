@@ -1,7 +1,7 @@
 # ADM-HW1
 
 ## File description
-### 3. `submissions.pdf`
+### 1. `submissions.pdf`
 
 #### I produce a PDF printout of all my submissions in the website [HackerRank](https://www.hackerrank.com/dashboard).
 
