@@ -1,7 +1,7 @@
 # ADM-HW1
 
 ## Script description
-1. script_ex1.py
+1. `script_ex1.py`
 It contains all the exercises relating to Problem 1:
 
 * Introduction (all – total: 7 - max points: 75)
@@ -18,7 +18,7 @@ It contains all the exercises relating to Problem 1:
 * Closures and Decorations (all – total: 2 - max points: 60)
 * Numpy (all – total: 15 - max points: 300)
 
-2. script_ex2.py
+1. `script_ex2.py`
 It contains all the exercises relating to Problem 2:
 
 * Birthday-cake-candles
