@@ -4,7 +4,8 @@
 1. script_ex1.py
 It contains all the exercises relating to Problem 1:
 
-+Introduction (all – total: 7 - max points: 75)
+
+*Introduction (all – total: 7 - max points: 75)
 +Numpy (all – total: 15 - max points: 300)
 +Sets (all – total: 13 - max points: 170)
 +Exceptions (only 1 - max points: 10)
