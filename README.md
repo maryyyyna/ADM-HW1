@@ -32,4 +32,5 @@
 
 ### 3. `submissions.pdf`
 
-#### It contains all my submissions in HackeRrank.com
+#### It contains all my submissions in [HackerRank](https://https://www.hackerrank.com)
+
