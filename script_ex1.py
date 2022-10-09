@@ -964,6 +964,16 @@ else:
 
 
 #8-----Validating phone numbers-----
+import re
+
+n = int(input())
+for _ in range(n):
+    number = input()
+    match = re.search(r"(^(7|8|9)[0-9]{9}$)",number)
+    if match:
+        print('YES')
+    else:
+        print('NO')
 
 
 #9-----Validating and Parsing Email Addresses-----
