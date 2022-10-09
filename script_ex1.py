@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Sep 29 20:50:54 2022
-
-@author: Marina
-"""
-
 #1-----Say "Hello, World!" With Python-----
 print("Hello, World!")
 
