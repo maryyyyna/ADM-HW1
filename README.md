@@ -3,7 +3,7 @@
 ## File description
 ### 1. `stamps.pdf`
 
-#### I produce a PDF printout of all my submissions in the website [HackerRank](https://www.hackerrank.com/dashboard).
+#### A PDF printout of all my submissions in the website [HackerRank](https://www.hackerrank.com/dashboard).
 
 ### 2. `script_ex1.py`
 
