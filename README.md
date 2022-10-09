@@ -7,7 +7,7 @@
 
 ### 2. `script_ex1.py`
 
-#### It contains the scripts of the exercises relative to Problem 1:
+#### It contains all my scripts relative to Problem 1:
 
 * Introduction (all – total: 7 - max points: 75)
 * Data types (all – total: 6 - max points: 60)
@@ -25,7 +25,7 @@
 
 ### 3. `script_ex2.py`
 
-#### It contains the scripts of the exercises relative to Problem 2:
+#### It contains all my scripts relative to Problem 2:
 
 * Birthday-cake-candles
 * Kangaroo
