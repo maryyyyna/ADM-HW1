@@ -9,7 +9,6 @@
 
 #### It contains all my scripts relative to Problem 1. 
 #### The structure of the file is:
-
 #------Name_Exercise_1------
 
 script_exercise_1
@@ -38,7 +37,6 @@ script_last_exercise
 
 #### It contains all my scripts relative to Problem 2.
 #### The structure of the file is:
-
 #------Name_Exercise_1------
 
 script_exercise_1
