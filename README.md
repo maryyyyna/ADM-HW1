@@ -9,15 +9,16 @@
 
 #### It contains all my scripts relative to Problem 1. 
 #### The structure of the file is:
-#------Name_Exercise_1------
+#### The structure of the file is:
+#### #Number------Name_Exercise_1------
 
-script_exercise_1
+#### script_exercise_1
 
-...
+#### ...
 
-#------Name_Last_Exercise------
+#### #Number------Name_Last_Exercise------
 
-script_last_exercise
+#### script_last_exercise
 
 * Introduction (all – total: 7 - max points: 75)
 * Data types (all – total: 6 - max points: 60)
@@ -37,14 +38,15 @@ script_last_exercise
 
 #### It contains all my scripts relative to Problem 2.
 #### The structure of the file is:
-#------Name_Exercise_1------
+#### #Number------Name_Exercise_1------
 
-script_exercise_1
+#### script_exercise_1
 
-...
-#------Name_Last_Exercise------
+#### ...
 
-script_last_exercise
+#### #Number------Name_Last_Exercise------
+
+#### script_last_exercise
 
 * Birthday-cake-candles
 * Kangaroo
