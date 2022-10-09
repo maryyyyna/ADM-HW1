@@ -8,17 +8,6 @@
 ### 2. `script_ex1.py`
 
 #### It contains all my scripts relative to Problem 1. 
-#### The structure of the file is:
-#### The structure of the file is:
-#### #Number------Name_Exercise_1------
-
-#### script_exercise_1
-
-#### ...
-
-#### #Number------Name_Last_Exercise------
-
-#### script_last_exercise
 
 * Introduction (all – total: 7 - max points: 75)
 * Data types (all – total: 6 - max points: 60)
@@ -37,16 +26,6 @@
 ### 3. `script_ex2.py`
 
 #### It contains all my scripts relative to Problem 2.
-#### The structure of the file is:
-#### #Number------Name_Exercise_1------
-
-#### script_exercise_1
-
-#### ...
-
-#### #Number------Name_Last_Exercise------
-
-#### script_last_exercise
 
 * Birthday-cake-candles
 * Kangaroo
@@ -54,5 +33,3 @@
 * Recursive-digit-sum
 * Insertionsort1
 * Insertionsort2
-
-
